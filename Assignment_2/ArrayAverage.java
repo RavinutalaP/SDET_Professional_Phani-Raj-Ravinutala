@@ -1,6 +1,6 @@
 package program2;
 
-public class ArrayAverage {
+public class ArrayAverage 
 	public static void main(String[] args) {
 		 
         // create an array
