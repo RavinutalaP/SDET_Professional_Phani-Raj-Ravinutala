@@ -18,7 +18,7 @@ public class ReverseElementsOfArray {
 	        System.out.println("Reverse of the array is :");
 	        for( i=n;i>0 ; i--,j++)
 	        {
-	            rev[j] = array[i-1]
+	            rev[j] = array[i-1];
 	            System.out.println(rev[j]);
 	    
 	        }
