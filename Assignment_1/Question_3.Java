@@ -5,7 +5,7 @@ public class SortAscendingorder {
 	            
 	        //Initialize array     
 	        int [] arr = new int [] {5, 2, 8, 7, 1};     
-	        int temp = 0;    
+	        int temp = ;    
 	            
 	        //Displaying elements of original array    
 	        System.out.println("Elements of original array: ");    
