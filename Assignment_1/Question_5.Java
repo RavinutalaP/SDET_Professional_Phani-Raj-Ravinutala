@@ -18,7 +18,7 @@ public class PrimeNumber {
 	 		counter = counter + 1;
 		     }
 		  }
-		  if (counter ==2)
+		  if (counter ==)
 		  {
 		     //Appended the Prime number to the String
 		     primeNumbers = primeNumbers + i + " ";
