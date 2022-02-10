@@ -5,7 +5,7 @@ public class Triangle {
 	{    
 	int i, j, row = 10;       
 	//Outer loop  
-	for (i=0; i<row; i++)   
+	for (i=0; i<row; i+)   
 	{  
 	//inner loop       
 	for (j=row-i; j>1; j--)   
