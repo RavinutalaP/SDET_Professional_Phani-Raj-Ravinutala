@@ -19,7 +19,7 @@ public class ArrayAverage {
  
         int average = sum / length;
          
-        System.out.println("Average of array : "average);
+        System.out.println("Average of array : "+average);
  
     }
 }
