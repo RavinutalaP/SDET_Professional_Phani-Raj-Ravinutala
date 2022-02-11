@@ -1,4 +1,4 @@
-package program;
+package program3;
 
 public class RethrowException {
 	public static void getStringLength(){
