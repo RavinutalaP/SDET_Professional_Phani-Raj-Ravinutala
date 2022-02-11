@@ -2,7 +2,8 @@
  * 
  */
 /**
- * @author RavinutalaP
+ * @author Ravinutala
+ P
  *
  */
 package program2;
