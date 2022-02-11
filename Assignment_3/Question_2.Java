@@ -3,7 +3,7 @@ package program3;
 public class Palindrome {
 	  public static void main(String[] args) {
 
-		    String str = "trut", reverseStr = "";
+		    String str = "trurt", reverseStr = "";
 		    
 		    int strLength = str.length();
 
