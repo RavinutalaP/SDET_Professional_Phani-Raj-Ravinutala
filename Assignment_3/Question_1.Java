@@ -4,12 +4,12 @@ public class StringtoChar {
 	public static void main(String args[])  
 	{  
 	//Char to string 
-	char[] ch = {'B', 'R', 'O', 'A', 'D', 'R', 'I', 'D', 'G', 'E', ' ' , 'T', 'R', 'A', 'I', 'N', 'I', 'N', 'G'};  
+	char[] ch = {'D', 'E', 'V', 'L', 'A', 'B', 'S', ' ' , 'T', 'R', 'A', 'I', 'N', 'I', 'N', 'G'};  
 	String string = new String(ch);  
 	System.out.println(string);  
 	
 	//String to Char
-	 String str = "BROADRIDGE TRAINING";
+	 String str = "DEVLABS TRAINING";
 	 char[] cha = new char[str.length()];
      for (int i = 0; i < str.length(); i++) {
          cha[i] = str.charAt(i);
