@@ -3,7 +3,7 @@ package program3;
 public class Substring {
 	public static void main(String[] args) {
 	   
-	    String txt = "A brown fox ran away fast";
+	    String txt = " brown fox ran away fast";
 	    String str1 = "brown";
 
 	    boolean result = txt.contains(str1);
