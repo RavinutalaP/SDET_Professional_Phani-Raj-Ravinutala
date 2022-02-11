@@ -4,7 +4,7 @@ public class StringOccurance {
 	public static void main(String args[]) 
 	  {
 	      
-		String input = "DevLabsAllianceTrainingî";
+		String input = "DevLabsAllianceTraining‚Äù";
 		  char search1 = 'D';             // Character to search is 'D'.
 		  
 		  int count1=0;
