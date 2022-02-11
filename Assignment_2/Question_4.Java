@@ -10,7 +10,7 @@ public class SumOfDigits {
 	sum = sum + number % 10;    
 	number = number/10;  
 	}  
-	//returns the summm 
+	//returns the sum
 	return sum;  
 	}  
 	//driver code  
