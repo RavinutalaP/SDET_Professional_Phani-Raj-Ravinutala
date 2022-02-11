@@ -2,7 +2,7 @@ package program2;
 
 public class OddNumbers {
 	public static void main(String[] args) {
-		int n = 189;
+		int n = 187;
         
         //print all odd numbers
         int i=79;
