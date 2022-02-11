@@ -1,4 +1,4 @@
-package program3;
+package program;
 
 public class StringOccurance {
 	public static void main(String args[]) 
