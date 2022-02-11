@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author SivasamyD
+ * @author RavinutalaP
  *
  */
 package program4;
