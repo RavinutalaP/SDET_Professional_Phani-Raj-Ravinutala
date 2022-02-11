@@ -16,7 +16,7 @@ public class NestedTry {
             try {
   
                 // performing division by zero
-                int x = a[2] / ;
+                int x = a[2] / 0;
             }
             catch (ArithmeticException e2) {
                 System.out.println("division by zero is not possible");
