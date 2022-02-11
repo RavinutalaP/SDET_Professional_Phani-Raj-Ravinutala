@@ -1,4 +1,4 @@
-package program;
+package program3;
 
 public class NumberFormtExcption {
 	public static void main(String[] args) {
