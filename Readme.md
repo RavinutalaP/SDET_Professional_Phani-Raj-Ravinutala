@@ -1,3 +1,3 @@
-# SDET_Professional_Phani_Raj_Ravinutala
+# SDET_Professional_PhaniRaj_Ravinutala
 
-SDET_Professional_Phani_Raj_Ravinutala
+SDET_Professional_PhaniRaj_Ravinutala
