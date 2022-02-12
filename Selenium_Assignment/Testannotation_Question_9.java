@@ -1,4 +1,4 @@
-package SeleniumAssignment
+package SeleniumAssignment;
 
 import java.awt.Point;
 
