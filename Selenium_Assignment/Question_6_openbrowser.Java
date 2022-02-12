@@ -13,7 +13,7 @@ public class openbrowser6 {
 	System.out.println("before Suite");
 	}
 	@BeforeSuite
-	public void before_suite( 
+	public void before_suite()
 	{
 	System.setProperty("webdriver.chrome.driver", "C:\\SDET_Softwares\\chromedriver1\\chromedriver.exe");
 	WebDriver driver = new ChromeDriver();
