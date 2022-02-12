@@ -14,7 +14,7 @@ public class Question11_12 extends Testbase{
 	
 	    public static WebDriver driver;
 		assignment.OrangePages OrangeOR;
-		public static FileInputStream fileLoc;
+		public static FileInputStream fileLoc
 		public static Properties prop;
 	    @BeforeClass
 		public void setUp() {
