@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	        map.put(2, "b");
 	        map.put(3, "c");
 	        map.put(4, "d");
-	        map.put(5, "e");
+	       
 
 	        List<Integer> keyList = new ArrayList(map.keySet());
 	        List<String> valueList = new ArrayList(map.values());
