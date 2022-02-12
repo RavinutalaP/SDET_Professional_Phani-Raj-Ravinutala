@@ -1,7 +1,7 @@
 package SeleniumAssignment;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.chrome.ChromeOptions
 import com.qa.pages.*;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
