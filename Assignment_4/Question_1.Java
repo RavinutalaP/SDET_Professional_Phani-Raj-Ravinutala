@@ -1,4 +1,4 @@
-package program4;
+package program;
 import java.util.*;
 public class Hashmap1 {
 	    public static void
